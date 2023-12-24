@@ -4,7 +4,7 @@
   </a>
 </div>
 
-## Escrow Padi 🛡️
+## 🛡️ Escrow Padi - Automated Telegram and WhatsApp escrow bot.
 
 **Welcome to the Escrow Padi automated system, your go-to destination for safe, secure, and seamless escrow services. We're delighted to have you on board!**
 
